@@ -5,9 +5,9 @@ import psutil
 import time
 # from wallpaper import set_wallpaper, get_wallpaper
 
-imgStableMode = "C:\\Users\\Ankita\\Desktop\\Desktop\\Arpit\\projects\\change_Desktop pyton\\stable.png"
-imgGodMode = "C:\\Users\\Ankita\\Desktop\\Desktop\\Arpit\\projects\\change_Desktop pyton\\godMode.png"
-imgCharging = "C:\\Users\\Ankita\\Desktop\\Desktop\\Arpit\\projects\\change_Desktop pyton\\charge.png"
+imgStableMode = ""
+imgGodMode = ""
+imgCharging = ""
 
 
 
